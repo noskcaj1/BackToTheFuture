@@ -3,7 +3,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido no curso no qual fui Aluno na plataforma da [DIO](https://dio.me) durante o [BootCamp Santander 2024 - Fundamentos de IA para Devs](https://web.dio.me/track/santander-2024-fundamentos-de-ia-para-devs)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/noskcaj1/BackToTheFuture/blob/main/ebook%20-%20Iniciante%20em%20Inform%C3%A1tica.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
