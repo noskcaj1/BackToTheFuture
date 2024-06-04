@@ -40,7 +40,7 @@ Leonardo.ai：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
+- Imagens utilizadas em [`assets`](https://github.com/noskcaj1/BackToTheFuture/tree/main/assets)
 - ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
