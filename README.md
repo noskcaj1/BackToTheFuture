@@ -54,7 +54,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="(https://avatars.githubusercontent.com/u/83094891?s=400&u=211fc55e67cde214902119da4e7090260b749bce&v=4)"
     />
     <p>&nbsp&nbsp&nbspJackson Miranda<br>
     &nbsp&nbsp&nbsp
